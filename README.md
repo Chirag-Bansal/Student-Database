@@ -1,7 +1,5 @@
-﻿ReadMe File
+#Student Database
 
-
-Assignment1.java
 This is the main file where there is public static void main () and this is where it starts executing.
 I created 4 linked lists of all hostels, all departments, all students and all courses.
 My motivation for creating an all student file was that it would be very complicated and inefficient to access student via any other linked list, we would have to traverse over their linked list and in every node traverse the student linked list.
